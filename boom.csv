@@ -1,11 +1,11 @@
-	name	value	wbsite	number of pc
-camera 	BetaFPV C03 Camera	€13,19	https://www.rotorama.com/product/betafpv-c03-camera	1
-motors	RCinpower GTS V3 0802 25000Kv	€12,29	https://www.rotorama.com/product/rcinpower-gts-v3-0802-25000kv	4
-esc	BetaFPV Air Brushless G4 5in1 (FC+ESC+ELRS RX+VTX)	€51,79	https://www.rotorama.com/product/betafpv-air-brushless-g4-5in1-v1	1
-propeler	Gemfan 40mm-3 1608 (1mm 8ks)	€3,69	https://www.rotorama.com/product/gemfan-40mm-3-1608-1mm	1
-frame	3D printed frame			1
-				
-				
-				
-				
-total value		€80,96		
+,name,value,wbsite,number of pc
+camera,BetaFPV C03 Camera,"â‚¬13,19",https://www.rotorama.com/product/betafpv-c03-camera,1
+motors,RCinpower GTS V3 0802 25000Kv,"â‚¬12,29",https://www.rotorama.com/product/rcinpower-gts-v3-0802-25000kv,4
+esc,BetaFPV Air Brushless G4 5in1 (FC+ESC+ELRS RX+VTX),"â‚¬51,79",https://www.rotorama.com/product/betafpv-air-brushless-g4-5in1-v1,1
+propeler,Gemfan 40mm-3 1608 (1mm 8ks),"â‚¬3,69",https://www.rotorama.com/product/gemfan-40mm-3-1608-1mm,1
+frame,3D printed frame,,,1
+,,,,
+,,,,
+,,,,
+,,,,
+total value,,"â‚¬80,96",,
